@@ -32,7 +32,7 @@ Collaborate with relevant stakeholders to discuss insights and align strategies 
 Regularly update and communicate findings to ensure ongoing informed decision-making.
 Throughout the process, ensure that your analysis is well-documented, and the dashboard is user-friendly for stakeholders to easily access and interpret the insights. Regularly review and update the dashboard as new data becomes available to maintain its relevance and usefulness.
 
-### Discription 
+### Description 
 The objective can be broken down into the following detailed components- 
 1. Dashboard Creation - Identify KPIs, design an intutive and visually appealing dashboard, add interactive visualization and filtering capabilities to allow users to explore the data at various levels of granuality.
 2. Data Analysis - Provide valuable insights to business entities regarding the effectiveness of theor sales strategies through visulaization and charts.
