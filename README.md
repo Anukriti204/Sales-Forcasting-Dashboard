@@ -39,4 +39,13 @@ The objective can be broken down into the following detailed components-
 3. Sales Forcasting - Leverage historic data and apply time series analysis and generate sales forcast for next 15 days.
 4. Actionable Insights and Recommendations - End goal is to share valuable insights and actionable information that can drive strategic decision - making and support the supermarket's goal for growth, efficiency, and customer satisfaction.
 
+### Insights
+
+Payment Mode Distribution: An analysis revealed that 43% of transactions were conducted through Cash on Delivery (COD), 35% via online payment methods, and 22% using credit/debit cards. This information provides a strategic opportunity for the company to tailor offers according to popular payment preferences, potentially boosting sales.
+
+Regional Sales Contributions: Examining sales contributions by region, the west region emerged as the leading contributor, accounting for 33%, followed by contributions from the west, central, and south regions. This regional breakdown offers valuable insights for targeted marketing efforts and resource allocation.
+
+Sales by Segment: Notably, a significant portion of sales was made directly to consumers. Understanding the predominant sales channel can guide the company in refining marketing strategies and enhancing the customer experience.
+
+Monthly Performance Peaks: It was observed that the maximum sales occurred in December, while the highest profit margins were achieved in October and December. Recognizing these peak months allows the company to optimize inventory, marketing campaigns, and operational strategies to capitalize on favorable market conditions.
 
