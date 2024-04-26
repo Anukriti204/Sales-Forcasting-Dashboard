@@ -1,51 +1,25 @@
-# Sales Dashboard
-
-### Task 
-To achieve your objective of contributing to the success of a business through data analysis, specifically focusing on time series analysis for accurate sales forecasting, you can follow these detailed components:
-
-#### Dashboard Creation:
-
-Identify Key Performance Indicators (KPIs) relevant to sales and business goals (e.g., revenue, product performance, customer retention).
-Design an intuitive and visually appealing dashboard using tools like Tableau, Power BI, or custom visualization libraries.
-Incorporate interactive features such as filters, drill-down options, and tooltips for a user-friendly experience.
-Provide options to explore data at various levels of granularity (daily, weekly, monthly) to understand trends and patterns.
-
-#### Data Analysis:
-
-Conduct exploratory data analysis (EDA) to understand the distribution, trends, and anomalies in the sales data.
-Utilize visualization and charts to communicate insights effectively (e.g., line charts, bar graphs, heatmaps).
-Analyze the effectiveness of different sales strategies, marketing campaigns, and promotions through comparative visualizations.
-Identify correlations between external factors (e.g., holidays, events) and sales performance.
-
-#### Sales Forecasting:
-
-Gather and preprocess historic sales data, ensuring data quality and consistency.
-Apply time series analysis techniques such as ARIMA, Exponential Smoothing, or machine learning models like Prophet to generate accurate sales forecasts.
-Validate and fine-tune the forecasting model using cross-validation techniques.
-Generate sales forecasts for the next 15 days and visualize the predictions alongside actual sales data for evaluation.
-
-#### Actionable Insights and Recommendations:
-
-Summarize key findings from the data analysis and sales forecasting.
-Provide actionable insights and recommendations based on identified trends, correlations, and forecasted sales.
-Collaborate with relevant stakeholders to discuss insights and align strategies for growth, efficiency, and customer satisfaction.
-Regularly update and communicate findings to ensure ongoing informed decision-making.
-Throughout the process, ensure that your analysis is well-documented, and the dashboard is user-friendly for stakeholders to easily access and interpret the insights. Regularly review and update the dashboard as new data becomes available to maintain its relevance and usefulness.
-
-### Description 
-The objective can be broken down into the following detailed components- 
-1. Dashboard Creation - Identify KPIs, design an intutive and visually appealing dashboard, add interactive visualization and filtering capabilities to allow users to explore the data at various levels of granuality.
-2. Data Analysis - Provide valuable insights to business entities regarding the effectiveness of theor sales strategies through visulaization and charts.
-3. Sales Forcasting - Leverage historic data and apply time series analysis and generate sales forcast for next 15 days.
-4. Actionable Insights and Recommendations - End goal is to share valuable insights and actionable information that can drive strategic decision - making and support the supermarket's goal for growth, efficiency, and customer satisfaction.
-
-### Insights
-
-Payment Mode Distribution: An analysis revealed that 43% of transactions were conducted through Cash on Delivery (COD), 35% via online payment methods, and 22% using credit/debit cards. This information provides a strategic opportunity for the company to tailor offers according to popular payment preferences, potentially boosting sales.
-
-Regional Sales Contributions: Examining sales contributions by region, the west region emerged as the leading contributor, accounting for 33%, followed by contributions from the west, central, and south regions. This regional breakdown offers valuable insights for targeted marketing efforts and resource allocation.
-
-Sales by Segment: Notably, a significant portion of sales was made directly to consumers. Understanding the predominant sales channel can guide the company in refining marketing strategies and enhancing the customer experience.
-
-Monthly Performance Peaks: It was observed that the maximum sales occurred in December, while the highest profit margins were achieved in October and December. Recognizing these peak months allows the company to optimize inventory, marketing campaigns, and operational strategies to capitalize on favorable market conditions.
-
+## Sales Forecasting Power BI Dashboard Overview 
+This repository contains the files for a Sales Forecasting Power BI Dashboard developed as part of a data analysis project. The dashboard offers a comprehensive view of sales data, allowing users to visualize trends, analyse performance, and forecast future sales with accuracy 
+### Features
+Interactive Visualization: The dashboard presents sales data through interactive charts, graphs, and tables, enabling users to explore data dynamically.
+### Forecasting Models
+Leveraging advanced analytics techniques, the dashboard includes predictive models to forecast future sales based on historical trends and patterns.
+### Payment Method Analysis
+Users can analyse sales transactions by payment method, gaining insights into customer preferences and behaviour.
+### Product Category Analysis
+The dashboard provides a breakdown of sales by product category, facilitating product performance analysis and strategic decision-making.
+### Technologies Used
+Microsoft Power BI: The dashboard is developed using Power BI, a powerful business analytics tool for data visualization and reporting.
+### Data Analysis Expressions (DAX)
+DAX formulas are employed to perform complex calculations and manipulate data within Power BI.
+### Data Extraction Techniques
+Advanced techniques are utilized to extract and transform data from multiple sources, ensuring data accuracy and completeness.
+Insights:
+### Payment Mode Distribution
+An analysis revealed that 43% of transactions were conducted through Cash on Delivery (COD), 35% via online payment methods, and 22% using credit/debit cards. This information provides a strategic opportunity for the company to tailor offers according to popular payment preferences, potentially boosting sales. 
+### Regional Sales Contributions
+Examining sales contributions by region, the west region emerged as the leading contributor, accounting for 33%, followed by contributions from the west, central, and south regions. This regional breakdown offers valuable insights for targeted marketing efforts and resource allocation. 
+### Sales by Segment
+Notably, a significant portion of sales was made directly to consumers. Understanding the predominant sales channel can guide the company in refining marketing strategies and enhancing the customer experience. 
+### Monthly Performance Peaks
+It was observed that the maximum sales occurred in December, while the highest profit margins were achieved in October and December. Recognizing these peak months allows the company to optimize inventory, marketing campaigns, and operational strategies to capitalize on favourable market conditions.
